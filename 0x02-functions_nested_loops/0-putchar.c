@@ -1,10 +1,6 @@
 #include <stdio.h>
+#include <main.h>
 
-
-void _putchar(char c)
-{
-	return (write(1, &c, 1));
-}
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
