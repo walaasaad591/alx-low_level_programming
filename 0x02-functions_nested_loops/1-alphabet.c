@@ -3,6 +3,8 @@
 /**
  * print_alphabet
  *
+ * Description: 'puts program'
+ *
  * Return: Always 0.
  */
 
